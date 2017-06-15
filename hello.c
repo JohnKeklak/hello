@@ -2,7 +2,7 @@
 
 int main ( int argc, char *argv)
 {
-    int i = 2;
+    int i = 5;
     int j = 3;
     int k = 6;
 
